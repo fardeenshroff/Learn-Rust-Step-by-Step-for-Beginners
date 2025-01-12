@@ -30,8 +30,6 @@ In this chapter, you will be introduced to the Rust programming language, its go
 - [Why Rust?](https://www.libhunt.com/r/rust)
 - [The Rust Ecosystem](https://www.rust-lang.org/en-US/learn/get-started)
 
-### Downloads
-[Download Chapter 1: Introduction to Rust](#)
 
 ### Exercise:
 Set up Rust on your system and write a simple "Hello, World!" program.
@@ -49,8 +47,6 @@ Set up a development environment for writing Rust code, including the installati
 - [Setting Up a Rust Project](https://www.rust-lang.org/learn/get-started)
 - [Running Your First Program](https://doc.rust-lang.org/book/ch01-03-hello-world.html)
 
-### Downloads
-[Download Chapter 2: Setting Up Your Environment](#)
 
 ### Exercise:
 Set up your Rust environment and run a simple "Hello, World!" program.
@@ -68,8 +64,6 @@ Learn the fundamental building blocks of Rust, including syntax, variables, and 
 - [Functions in Rust](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html)
 - [Blocks and Expressions](https://doc.rust-lang.org/book/ch03-02-data-types.html)
 
-### Downloads
-[Download Chapter 3: Rust Basics](#)
 
 ### Exercise:
 Write a program that calculates the sum of an integer array.
@@ -87,8 +81,6 @@ Learn about Rust’s variable system, basic data types, and how to define and us
 - [Functions](https://doc.rust-lang.org/book/ch03-03-how-functions-work.html)
 - [Control Flow Expressions](https://doc.rust-lang.org/book/ch03-05-control-flow.html)
 
-### Downloads
-[Download Chapter 4: Variables, Data Types, and Functions](#)
 
 ### Exercise:
 Write a function that takes a string input and returns the string reversed.
@@ -106,8 +98,6 @@ Master Rust’s control flow structures like conditionals and loops.
 - [Match Expression](https://doc.rust-lang.org/book/ch06-02-match.html)
 - [Pattern Matching](https://doc.rust-lang.org/book/ch06-02-match.html)
 
-### Downloads
-[Download Chapter 5: Control Flow in Rust](#)
 
 ### Exercise:
 Implement a program that uses a match expression to print the corresponding weekday name for a number.
@@ -124,8 +114,6 @@ Rust’s approach to error handling using `Result` and `Option` types helps you 
 - [The `Option` Type](https://doc.rust-lang.org/book/ch06-02-enums.html)
 - [Using `unwrap` and `expect`](https://doc.rust-lang.org/book/ch09-03-to-panic-or-not-to-panic.html)
 
-### Downloads
-[Download Chapter 6: Error Handling](#)
 
 ### Exercise:
 Write a program that reads a number from the user and uses error handling to make sure the user input is valid.
@@ -143,8 +131,6 @@ Learn Rust's unique ownership model, which prevents memory errors such as dangli
 - [Slicing](https://doc.rust-lang.org/book/ch04-03-slices.html)
 - [The Rust Ownership Rules](https://doc.rust-lang.org/book/ch04-01-ownership.html)
 
-### Downloads
-[Download Chapter 7: Rust Ownership and Borrowing](#)
 
 ### Exercise:
 Write a program that demonstrates both ownership and borrowing with a vector of integers.
@@ -161,8 +147,6 @@ Learn how to define custom data types with structs and enums in Rust.
 - [Enum Types](https://doc.rust-lang.org/book/ch06-02-enums.html)
 - [Pattern Matching with Enums](https://doc.rust-lang.org/book/ch06-02-enums.html)
 
-### Downloads
-[Download Chapter 8: Structs and Enums](#)
 
 ### Exercise:
 Create an enum for traffic lights, and implement a function that returns the action (like "Go", "Stop", "Yield") for each state.
@@ -180,8 +164,6 @@ Discover Rust’s powerful collections library for handling data more effectivel
 - [Hash Maps](https://doc.rust-lang.org/book/ch08-03-hash-maps.html)
 - [Iterators](https://doc.rust-lang.org/book/ch13-02-iterators.html)
 
-### Downloads
-[Download Chapter 9: Working with Collections](#)
 
 ### Exercise:
 Write a program that uses a hash map to count word frequency in a text file.
@@ -199,8 +181,6 @@ Rust offers powerful tools to help you safely handle concurrent tasks.
 - [Channels for Communication](https://doc.rust-lang.org/book/ch16-02-message-passing.html)
 - [Shared State Concurrency](https://doc.rust-lang.org/book/ch16-03-shared-state.html)
 
-### Downloads
-[Download Chapter 10: Rust for Concurrency](#)
 
 ### Exercise:
 Implement a simple program using threads to calculate the sum of a large dataset in parallel.
@@ -217,8 +197,6 @@ Explore Rust’s web development capabilities with popular frameworks.
 - [Building Web Servers with Actix](https://actix.rs/)
 - [Using Hyper for HTTP Requests](https://hyper.rs/)
 
-### Downloads
-[Download Chapter 11: Rust for Web Development](#)
 
 ### Exercise:
 Build a simple API that returns a "Hello, World!" message in JSON format using Rocket.
@@ -235,8 +213,6 @@ Dive into some advanced Rust topics like async programming, macros, and procedur
 - [Creating Custom Macros](https://doc.rust-lang.org/book/ch19-06-macros.html)
 - [Understanding Lifetimes](https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html)
 
-### Downloads
-[Download Chapter 12: Advanced Rust Topics](#)
 
 ### Exercise:
 Write an asynchronous function that fetches data from a remote API and handles errors properly.
@@ -254,3 +230,16 @@ This repository is licensed under the [MIT License](LICENSE). See the LICENSE fi
 ---
 
 Happy Coding with Rust! 🚀
+
+---
+
+## Disclaimer
+
+The programming languages, resources, downloads, and links provided in this repository are the property of their respective owners, creators, and contributors. This repository is intended solely for educational purposes to help learners gain an understanding of each language, how to download and install the required tools, and how to start programming effectively.
+
+The content shared is purely for learning and informational purposes and is not intended to infringe on any copyrights or intellectual property rights. If you are the rightful owner of any resource or content and wish to have it removed, please contact me directly, and I will promptly take the necessary actions to comply with your request.
+
+All credit for the resources, libraries, and tools mentioned in this repository belongs to their respective authors.
+
+
+---
